@@ -1,4 +1,5 @@
-# EMS
-Entra Management Scripts to help with common tasks,    
-Maybe even some Exchange and SharePoint scripts too,  
-Or `anything else` I feel like sharing...
+Mostly PowerShell scripts  
+Some Entra management scripts to help with common tasks,    
+Lots of Exchange scripts, and SharePoint scripts too, 
+Maybe some Intune scripts
+Or `anything else scripts` 
